@@ -1,2 +1,6 @@
-# App
-My Abzarica
+{
+  "power": "on",
+  "update": "off",
+  "version": "1.0.0",
+  "package": "com.abzarica"
+}
